@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
-    background: linear-gradient(80deg, rgb(74, 74, 158), rgb(74, 74, 158), rgb(171, 162, 163));
+    background: linear-gradient(80deg, rgb(23, 23, 116), rgb(18, 18, 122), rgb(171, 162, 163));
 }
 
 h1 {
@@ -111,7 +111,7 @@ canvas {
 
 @media (max-width: 468px) {
     body {
-        background: linear-gradient(80deg, rgb(74, 74, 158), rgb(74, 74, 158), rgb(171, 162, 163));
+        background: linear-gradient(80deg, rgb(23, 23, 116), rgb(18, 18, 122), rgb(171, 162, 163));
 
     }
 }
